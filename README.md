@@ -1,3 +1,3 @@
 ws-servertest
 =============
-websocket server for notifications
+websocket server for client notifications
